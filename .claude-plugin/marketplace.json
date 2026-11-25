@@ -1,0 +1,5 @@
+{
+  "name": "adobe-grau",
+  "owner": { "name": "madmus2025" },
+  "plugins": [{ "name": "adobe-grau", "source": "./" }]
+}
